@@ -5,6 +5,10 @@ import java.util.concurrent.Future;
 
 /**
  * Created by aamado on 05-05-2023.
+ * Implementation of ISnailShellPattern
+ * This class will go through a matrix in a snail shell pattern
+ * Skeleton of project provided by Premium Minds
+ * @author Tomás Salgueiro github.com/Tomathy-dev
  */
 class SnailShellPattern implements ISnailShellPattern {
 

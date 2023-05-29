@@ -14,6 +14,10 @@ import org.junit.runners.JUnit4;
 
 /**
  * Created by aamado on 05-05-2023.
+ * Test class for SnailShellPattern
+ * This class will test the SnailShellPattern class
+ * 3x3 test provided by Premium Minds
+ * @author Tomás Salgueiro github.com/Tomathy-dev
  */
 @RunWith(JUnit4.class)
 public class SnailShellPatternTest {
